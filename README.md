@@ -2,7 +2,7 @@ FLIPCART-PRODUCT-REVIEW
 
 ABOUT:-
 
-(1)I Am Presenting A Project Assignment like On The Flipcark-Product-Review.
+(1)I Am Presenting A Project Assignment like On The Flipcart-Product-Review.
 
 (2)In This Web Srapping Project I Have Tried To Give All The Important Things And Information About Project.
 
