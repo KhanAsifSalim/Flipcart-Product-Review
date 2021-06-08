@@ -1,7 +1,6 @@
 #Flipcart-Product-Review
 
 #ABOUT:-
-
 ##I Am Presenting A Project Assignment like On The Flipcark-Product-Review.
 ##In This Web Srapping Project I Have Tried To Give All The Important Things And Information About Project.
 
